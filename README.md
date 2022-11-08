@@ -12,7 +12,7 @@
 
 <h3 align="left">Acerca de mí ✨</h3>
 <hr size="2px" color="black" />
-<img width="23%" align="right" alt="Github" src="https://github.com/Marcos1up/Assets/blob/9230f43b1c4e7bd9d7bf92de52b814c094de9369/Assets/studying.png" />
+<img width="29%" align="right" alt="Github" src="https://github.com/Marcos1up/Assets/blob/9230f43b1c4e7bd9d7bf92de52b814c094de9369/Assets/studying.png" />
 
 - 🔭 Actualmente estoy trabajando en mí **Portfolio**
 
@@ -45,5 +45,3 @@
 
 <br/>
 <h3 align="left">¡Gracias por visitarme! 👋</h3>
-
-<img width="23%" align="right" alt="Github" src="https://github.com/Marcos1up/Assets/blob/9230f43b1c4e7bd9d7bf92de52b814c094de9369/Assets/idea.jpg" />
