@@ -35,7 +35,7 @@
 <hr size="2px" color="black" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcos1up&show_icons=true&locale=en&layout=compact" alt="Marcos1up" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos1up&show_icons=true&locale=en" alt="Marcos1up" /></p>
 
 <br/>
