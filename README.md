@@ -1,7 +1,7 @@
 <h2 align="left">¡Hola < Developers />! 👋</h2>
 
 <h3 align="left">¡Hola, mi nombre es Marcos, mucho gusto!</h3>
-<p> Me gusta el café ☕, los días frios, y me relaja el escribir código.</p>
+<p> Me gusta el café ☕, los días frios ❄, y me relaja el escribir código.</p>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Marcos1up.Marcos1up)
