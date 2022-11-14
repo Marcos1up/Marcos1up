@@ -4,8 +4,6 @@
 <p> Me gusta el café ☕, los días frios ❄, y me relaja el escribir código.</p>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Marcos1up.Marcos1up)
-
 </p>
 
 <br/>
