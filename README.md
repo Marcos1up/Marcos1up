@@ -14,9 +14,9 @@
 
 - 🔭 Actualmente estoy trabajando en mí **Portfolio**
 
-- 🌱 Actualmente estoy aprendiendo **Angular y Typescript.**
+- 🌱 Actualmente estoy aprendiendo **Java y Typescript.**
 
-- 💬 Háblame de **JavaScript, React.js, Node.js, Sequelize, Express, HTML, CSS, Bootstrap, Redux, y obviamente un poco sobre TypeScript y Angular.**
+- 💬 Háblame de **JavaScript, React.js, Node.js, Sequelize, Express, HTML, CSS, Bootstrap, Redux, y obviamente un poco sobre TypeScript y Java.**
 
 - 📫 ¿Quieres saber más de mí? Contáctame por **itsmarcos.1up@gmail.com**
 
