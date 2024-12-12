@@ -1,5 +1,5 @@
 # Hi, my name is Marcos Soria! ✨
-💬 I love coffee ☕, cold days ❄, and coding relaxes me 💻  
+💬 I love coffee ☕ cold days ❄ and coding relaxes me 💻  
 🌱 I am currently learning more about **Data Structures and Algorithms**.  
 📫 You can contact me at: **itsmarcos.1up@gmail.com**  
 💼 My portfolio: [**marcos-soria-portfolio**](https://marcos-soria-portfolio.vercel.app/)
