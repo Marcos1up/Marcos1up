@@ -60,6 +60,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Marcos1up&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<h3 align="left">Thanks for visiting me! 👋</h3>
+<h3 align="center">Thanks for visiting me! 👋</h3>
