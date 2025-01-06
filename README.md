@@ -60,6 +60,6 @@
 
 ---
 
-![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=Marcos1up&style=for-the-badge)
+[![](https://visitcount.itsvg.in/api?id=Marcos1up&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <h3 align="left">Thanks for visiting me! 👋</h3>
