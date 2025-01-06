@@ -60,4 +60,4 @@
 
 ---
 
-<h3 align="center">Thanks for visiting me! 👋</h3>
+<h3 align="center">— Thanks for visiting me! 👋 —</h3>
